@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: whitesmoke;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: whitesmoke;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: valera rount, sans-serif;
+}
