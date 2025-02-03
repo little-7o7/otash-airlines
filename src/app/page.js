@@ -24,7 +24,7 @@ export default function Home() {
                         HISOB VARAQA
                     </span>
                     <div className={kuashan.className}>
-                        <span className='text-xl sm:text-2xl border-b-[1px] border-[#daa520]'>CI-86931</span>
+                        <span className='text-xl sm:text-2xl border-b-[1px] border-[#daa520]'>gayguy</span>
                     </div>
                     <span className='pt-[2px] text-[8px]'>Hujjat raqami</span>
                     <span className='mt-[20px] text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520] text-center'>
