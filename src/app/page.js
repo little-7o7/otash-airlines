@@ -50,13 +50,15 @@ export default function Home() {
                             <span className='pt-[2px] text-[8px]'>Sana</span>
                         </div>
                         <div className='flex flex-col items-center justify-center'>
-                            <Image
-                                src={qr}
-                                width={120}
-                                height={120}
-                                alt={''}
-                                className='border-b-[1px] border-[#daa520]'
-                            />
+                            <div className='border-[10px] border-[#ffffff]'>
+                                <Image
+                                    src={qr}
+                                    width={100}
+                                    height={100}
+                                    alt={''}
+                                    className='border-b-[1px] border-[#daa520]'
+                                />
+                            </div>
                             <span className='pt-[2px] text-[8px] text-center leading-none'>HUJJAT QR_CODE BILAN <br /> IMZOLANGAN</span>
                         </div>
                     </div>
