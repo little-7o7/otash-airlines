@@ -28,7 +28,7 @@ export default function Home() {
                     </div>
                     <span className='pt-[2px] text-[8px]'>Hujjat raqami</span>
                     <span className='mt-[20px] text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520] text-center'>
-                        SOXIBNAZAROV OTABEK SAMATILLOYEVICH
+                        BOYMATOV RAMZ RAXMADJONOVICH
                     </span>
                     <span className='pt-[2px] text-[8px]'>Mashina egasi</span>
                     <div className='flex justify-between w-full max-w-[600px] mt-[20px]'>
@@ -46,7 +46,7 @@ export default function Home() {
                     </div>
                     <div className='flex justify-between items-start w-full max-w-[700px] mt-[20px]'>
                         <div className='flex flex-col items-center justify-center'>
-                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>05.06.2026</span>
+                            <span className='text-sm sm:text-base md:text-lg border-b-[1px] border-[#daa520]'>19.06.2026</span>
                             <span className='pt-[2px] text-[8px]'>Sana</span>
                         </div>
                         <div className='flex flex-col items-center justify-center'>
